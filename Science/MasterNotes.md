@@ -2,6 +2,8 @@
 
 # Unit 5 — Ecology
 
+> **Course-organization note:** The existing master identifies this material as **Unit 5 — Ecology**, while the `8-20(1).pptx` and `8-21(1).pptx` agendas call the assessment **Unit 1 Part 1 #1 Quiz**. The numbering may reflect a different course or assessment sequence; the water- and carbon-cycle concepts are organized here by their ecological content.
+
 ## Part 1: Introduction to Ecology
 
 ### What Is Ecology?
@@ -320,6 +322,213 @@ This connects a characteristic of individual living things to ecological conditi
 
 ---
 
+## Cycles of Matter in Ecosystems
+
+### Big Idea and Learning Goal
+
+**Teacher material:** The essential question is **How does matter move through ecosystems?** The learning goal is to explain the cycles of matter in ecosystems in your own words.
+
+This supports the class standard of developing a model that describes both the **cycling of matter** and the **flow of energy** among biotic and abiotic parts of an ecosystem.
+
+Matter is not used once and discarded. The same atoms move repeatedly between:
+
+- **Biotic components** - organisms and once-living material
+- **Abiotic components** - air, water, soil, rocks, and other nonliving parts of the environment
+
+The **water cycle** tracks water as it moves and changes state. The **carbon cycle** tracks carbon as it moves among living things and nonliving reservoirs.
+
+> **Important distinction:** **Matter cycles, but energy flows.** Water and carbon atoms can be reused. Energy enters ecosystems mainly as sunlight, changes form, and eventually leaves as heat.
+
+### The Water Cycle
+
+#### Definition
+
+**Teacher material:** The **water cycle** is the process by which water moves through Earth and the atmosphere. It includes water evaporating into the air, condensing into clouds, and precipitating back to Earth.
+
+Water may be stored temporarily in oceans, lakes, rivers, glaciers, ice caps, soil, underground rock, the atmosphere, and living organisms. These storage locations are called **reservoirs**.
+
+#### Water-Cycle Vocabulary and Processes
+
+| Term | Teacher meaning | What happens |
+|---|---|---|
+| **Water vapor** | Water dispersed in air as a gas, especially after evaporation | Liquid water has become gaseous water |
+| **Evaporation** | Water changes from a liquid to a gas because of heat | Surface water gains energy and enters the atmosphere as vapor |
+| **Condensation** | Water in the atmosphere cools and changes from a gas to a liquid | Water vapor forms tiny liquid droplets, helping clouds form |
+| **Precipitation** | Water falls from clouds to Earth's surface as rain, sleet, snow, or hail | Atmospheric water returns to the surface |
+| **Transpiration** | Water vapor passes from a plant to the atmosphere | Plants release water vapor, mainly through openings in their leaves |
+| **Runoff** | Water not absorbed by soil flows over land toward streams, rivers, lakes, or the ocean | Moving water may also carry rock and sediment |
+| **Accumulation** | Water collects in oceans, rivers, lakes, other bodies of water, glaciers, or ice caps | Water is stored before moving again |
+| **Infiltration** | Water soaks into soil and moves through cracks and pores in rock | Surface water becomes subsurface water |
+| **Groundwater** | Fresh water held below the surface in soil and porous rock | It is a subsurface reservoir that can contribute to rivers and streams |
+| **Surface water** | Water that has not moved far below the ground's surface | Includes water in rivers, lakes, streams, and other surface reservoirs |
+| **Sublimation** | Snow or ice changes directly from a solid to water vapor without first melting | Solid water enters the atmosphere as a gas |
+
+#### How the Processes Connect
+
+A common pathway is:
+
+1. Solar energy warms surface water, causing **evaporation**.
+2. Plants add water vapor through **transpiration**.
+3. Rising water vapor cools and **condenses** into tiny droplets in clouds.
+4. Droplets or ice crystals grow and fall as **precipitation**.
+5. Water may **accumulate**, move across land as **runoff**, or enter the ground by **infiltration**.
+6. **Groundwater** and surface water can feed streams, rivers, lakes, and oceans, where the cycle continues.
+
+This is not a single fixed loop. A water molecule could remain in an ocean for a long time, freeze in a glacier, enter a plant, travel underground, or take many other paths.
+
+> **Think Deeper:** The Sun supplies much of the energy for evaporation and transpiration. **Gravity** pulls precipitation downward and helps drive runoff and groundwater flow.
+
+#### Weather in a Cup Investigation
+
+The investigation modeled three major parts of the water cycle with two cups:
+
+- In the first cup, shaving cream represented a cloud formed by **condensation**.
+- Colored water moving down through the shaving cream represented **precipitation**.
+- In the second cup, water left in a sunny place lost water as **evaporation** occurred; the ending water level should be lower than the starting level.
+
+Expected evidence:
+
+- Colored drops eventually fell into the water below.
+- The sunny cup's water level decreased as liquid water entered the air as vapor.
+
+> **Model limitation:** Shaving cream is not actually condensed atmospheric water, and food coloring is not rain. A scientific model represents selected parts of a system; it does not copy every feature exactly.
+
+#### Common Water-Cycle Traps
+
+- **Evaporation vs. condensation:** evaporation is liquid to gas; condensation is gas to liquid.
+- **Precipitation vs. condensation:** condensation forms droplets in the atmosphere; precipitation is water falling to Earth.
+- **Runoff vs. infiltration:** runoff travels over the surface; infiltration enters soil or rock.
+- **Groundwater vs. surface water:** groundwater is below the surface; surface water remains at or near the surface.
+- **Sublimation vs. evaporation:** sublimation begins with solid water; evaporation begins with liquid water.
+- Clouds are not water vapor alone. Visible clouds contain tiny liquid droplets and/or ice crystals formed after condensation or deposition.
+
+> **Beyond the Basics:** Evaporation and transpiration are sometimes combined as **evapotranspiration**, the total transfer of water from land and plants to the atmosphere.
+
+### The Carbon Cycle
+
+#### Carbon and Carbon Reservoirs
+
+**Teacher material:** **Carbon** is an element on the periodic table and is found in every living thing. It is also found in the atmosphere, oceans and other water, soil, rocks, and fossil fuels.
+
+The **carbon cycle** is the movement of carbon from the nonliving environment into living things and back, or more broadly, the processes by which carbon compounds are interconverted in the environment.
+
+A **carbon reservoir** is a place where carbon is stored. Major reservoirs in the materials include:
+
+- **Atmosphere:** mainly carbon dioxide, or **CO₂**
+- **Biosphere:** plants, animals, microorganisms, and other living things
+- **Hydrosphere:** oceans and other water where carbon dioxide can dissolve
+- **Geosphere:** soil, sediment, rocks, fossil fuels, and carbon-containing minerals
+
+Carbon constantly moves among these reservoirs. Moving carbon out of one reservoir adds it to one or more others.
+
+**Teacher reading:** Most of Earth's carbon is stored in the geosphere, especially in rocks.
+
+#### Fast Carbon Cycle
+
+The fast carbon cycle mainly moves carbon through living things and the atmosphere over comparatively short timescales.
+
+| Process | Carbon movement |
+|---|---|
+| **Photosynthesis** | Plants, algae, and some bacteria use sunlight, carbon dioxide, and water to make glucose (sugar/food); atmospheric or dissolved carbon enters living matter |
+| **Consumption** | Animals and other consumers obtain carbon by eating plants, plankton, or other organisms |
+| **Cellular respiration** | Cells use oxygen to release usable energy from food and return carbon dioxide to the air or water |
+| **Decomposition** | Decomposers such as fungi and bacteria break down dead organisms and wastes, returning carbon compounds to soil, water, and the atmosphere |
+| **Combustion** | Burning wood or fossil fuels in oxygen releases carbon dioxide, water, and energy |
+
+The practice materials emphasize:
+
+- Plants obtain the carbon they use mainly from carbon dioxide in the **air** or dissolved in water, not directly from sunlight.
+- **Photosynthesis** uses carbon dioxide; respiration, decomposition, and combustion can produce carbon dioxide.
+- During respiration, oxygen is consumed and carbon dioxide is released.
+- Fungi and bacteria both help return carbon from dead organisms and waste to the environment.
+- A cycle has no true beginning; the available carbon is continually recycled.
+
+> **Think Deeper:** Carbon atoms can move from atmospheric CO₂ into plant sugar, into an animal that eats the plant, and back to the atmosphere through respiration, decomposition, or combustion.
+
+#### Photosynthesis and Respiration Are Connected
+
+**Teacher material:**
+
+- **Photosynthesis:** organisms use sunlight, carbon dioxide, and water to make glucose; oxygen is produced.
+- **Respiration:** cells use oxygen to obtain energy from food and release carbon dioxide.
+
+> **Beyond the Basics:** Simplified chemical equations show the relationship:
+>
+> **Photosynthesis:** `6CO₂ + 6H₂O + light energy → C₆H₁₂O₆ + 6O₂`
+>
+> **Cellular respiration:** `C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O + usable energy`
+>
+> The overall equations look nearly reversed, but the processes occur through many enzyme-controlled steps and serve different purposes.
+
+#### Slow Carbon Cycle
+
+**Teacher reading:** Carbon may take about **100-200 million years** to move among the atmosphere, rocks, soil, and ocean in the slow carbon cycle.
+
+One slow pathway is:
+
+1. Atmospheric carbon dioxide combines with rainwater, forming weak **carbonic acid**.
+2. The acid helps break down rock through **chemical weathering**.
+3. Water carries dissolved ions such as calcium, magnesium, and potassium into rivers and oceans.
+4. In the ocean, calcium can become part of **calcium carbonate**.
+5. Corals, plankton, sea urchins, and other organisms use calcium carbonate to build hard coverings.
+6. After organisms die, shells and sediment accumulate on the seafloor.
+7. Over long periods, compaction and cementation form carbon-containing rock.
+8. Tectonic activity can carry rock deep underground; heat and pressure release carbon dioxide, which volcanic eruptions can return to the atmosphere.
+
+The teacher reading states that about **80% of carbon-containing rock** forms through accumulated shells and sediment; the remaining portion contains organic carbon trapped in layers of mud.
+
+If dead organic matter accumulates faster than it decays, heat, pressure, burial, and millions of years can form **fossil fuels** such as coal, oil, and natural gas.
+
+#### Coal and the Carboniferous Period
+
+The slides connect coal formation to the **Carboniferous Period**, long before the dinosaurs, when extensive plant growth contributed to large carbon deposits. Over millions of years, buried plant material formed coal.
+
+Humans burn coal to generate electricity. Combustion moves carbon that was stored underground into the atmosphere as carbon dioxide; plants may later take some of that carbon dioxide up through photosynthesis.
+
+#### Human Impact on the Carbon Cycle
+
+The reading identifies forests, oceans, and soil as three major **carbon sinks** - reservoirs that absorb and store carbon.
+
+Human activities can shift carbon between reservoirs:
+
+- **Deforestation** releases or reduces stored plant carbon and removes plants that would otherwise absorb CO₂ through photosynthesis.
+- **Burning coal, oil, and natural gas** rapidly transfers carbon from long-term geologic storage into the atmosphere, moving carbon from the slow cycle into the fast cycle.
+- Disturbed or uncovered soil can release more carbon as organic matter decays.
+
+The teacher reading states that oceans and plants have absorbed about **55%** of the extra carbon discussed, while about **45%** has remained in the atmosphere. It also notes that a portion may remain in the atmosphere for thousands of years.
+
+#### Why Extra Carbon Dioxide Matters
+
+- Carbon dioxide is a **greenhouse gas**: it absorbs and re-emits infrared energy (heat).
+- A natural greenhouse effect keeps Earth warm enough for life, but too much greenhouse gas contributes to excessive warming.
+- When oceans absorb extra CO₂, chemical changes make the water more acidic, creating stress for many marine organisms.
+- **Permafrost** is frozen soil that can store large amounts of carbon from old plant material. Warming and thawing can speed decomposition, releasing carbon dioxide more quickly.
+
+> **Interesting Connection:** The water and carbon cycles interact. Rainwater helps move carbon through weathering, rivers carry dissolved carbon to oceans, water is required for photosynthesis, and ocean chemistry affects how carbon is stored.
+
+#### Common Carbon-Cycle Traps
+
+- **Carbon is not the same as carbon dioxide.** Carbon is an element; carbon dioxide is a compound containing one carbon atom and two oxygen atoms.
+- **Plants do respire.** They photosynthesize when light is available, but their cells also perform cellular respiration.
+- **Photosynthesis does not create carbon.** It moves carbon from CO₂ into glucose and other organic molecules.
+- **Burning does not destroy carbon.** Combustion rearranges atoms and transfers much of the carbon into CO₂.
+- **Decomposition does not make matter disappear.** It moves carbon from dead material into decomposers, soil, water, and the atmosphere.
+- **The ocean is a major carbon reservoir, not an unlimited solution.** Dissolving extra CO₂ changes ocean chemistry.
+
+### Comparing the Water and Carbon Cycles
+
+| Feature | Water cycle | Carbon cycle |
+|---|---|---|
+| Matter tracked | H₂O molecules | Carbon atoms in CO₂, sugars, organisms, rocks, fossil fuels, and other compounds |
+| Major reservoirs | Atmosphere, oceans, surface water, groundwater, ice, soil, organisms | Atmosphere, biosphere, oceans, soil, rocks, sediment, fossil fuels |
+| Important biological processes | Transpiration and movement through organisms | Photosynthesis, consumption, respiration, decomposition |
+| Important physical/geologic processes | Evaporation, condensation, precipitation, runoff, infiltration, sublimation | Dissolving, weathering, sedimentation, burial, tectonic movement, volcanic release |
+| Human influence | Land use, groundwater removal, pollution, and climate can alter storage and movement | Fossil-fuel combustion and deforestation rapidly shift stored carbon into the atmosphere |
+
+> **Challenge:** Follow one carbon atom in a CO₂ molecule and one water molecule from the atmosphere into a plant. Carbon may enter glucose through photosynthesis, while water may help photosynthesis, become part of the plant, or leave through transpiration. Their paths connect, but the two cycles track different matter.
+
+---
+
 ## Quick Study Reference
 
 ### Vocabulary
@@ -343,6 +552,25 @@ This connects a characteristic of individual living things to ecological conditi
 | **Habitat** | Place where an organism usually lives |
 | **Niche** | Role of a species in its community, including habitat use and relationships with other species |
 | **Asexual reproduction** | Reproduction involving one parent and, in the teacher notes, producing identical offspring |
+| **Water cycle** | Movement of water through Earth and the atmosphere |
+| **Evaporation** | Liquid water changes to water vapor |
+| **Condensation** | Water vapor cools and changes to liquid water |
+| **Precipitation** | Rain, snow, sleet, or hail falling from clouds to Earth |
+| **Transpiration** | Release of water vapor from plants |
+| **Runoff** | Water flowing over land toward bodies of water |
+| **Accumulation** | Water collecting in bodies of water or ice |
+| **Infiltration** | Water soaking into soil and rock |
+| **Groundwater** | Water stored below Earth's surface in soil and porous rock |
+| **Sublimation** | Solid water changes directly into water vapor |
+| **Carbon cycle** | Movement and transformation of carbon among living things and the nonliving environment |
+| **Carbon reservoir** | Place where carbon is stored |
+| **Photosynthesis** | Use of light energy, carbon dioxide, and water to make glucose; oxygen is released |
+| **Cellular respiration** | Cellular process that releases usable energy from food and returns carbon dioxide |
+| **Decomposition** | Breakdown of dead organisms and waste into simpler substances |
+| **Combustion** | Burning that releases carbon dioxide, water, and energy |
+| **Fossil fuel** | Coal, oil, or natural gas formed from ancient organic matter over millions of years |
+| **Carbon sink** | Reservoir that absorbs and stores more carbon than it releases over a given time |
+| **Greenhouse gas** | Gas that absorbs and re-emits infrared energy in the atmosphere |
 
 ### Five Levels — Memorize the Order
 
@@ -369,5 +597,18 @@ This connects a characteristic of individual living things to ecological conditi
 - `5 Levels of Environmental Organization Practice(1).docx`
 - `Abotic and Botic Factors Practice.pdf`
 - `abiotic_biotic reading comprehension.pdf`
+- `WeatherInACupWaterCycle-1(1).pdf`
+- `8-21(1).pptx`
+- `8-20(1).pptx`
+- `Water Cycle Task Cards(1).pptx`
+- `Carbon Cycle Practice 2.pdf`
+- `Carbon Cycle Practice 1.pdf`
+- `Carbon Cycle Reading Materials.pdf`
+- `Carbon Cycle.pptx`
+- `Water Cycle Notes.pdf`
+- `The Water Cycle vocab.pptx`
+- `Water Cycle and Carbon Cycle.pptx`
+- `Page 11 Carbon Cycle.pdf`
+- `Page 10 Water Cycle.pdf`
 
 > **Source note:** The characteristics-of-living-things PDF is a handwritten/scanned page and the bottom is partially cut off. Only material that could be read reliably was incorporated; unreadable content was not invented.
