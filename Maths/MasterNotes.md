@@ -183,6 +183,39 @@ It stops on the **11th floor**.
 >
 > Distance is the absolute value of the difference: `|7 - (-18)| = |25| = 25` feet.
 
+
+#### Problem Type 8: Divide Integers
+
+Division asks how many equal groups can be made, and it is the inverse of multiplication.
+
+**Sign rules:**
+
+- Same signs give a positive quotient: `24 ÷ 6 = 4` and `-24 ÷ (-6) = 4`.
+- Different signs give a negative quotient: `-24 ÷ 6 = -4` and `24 ÷ (-6) = -4`.
+- Zero divided by any nonzero integer is zero.
+- Division by zero is undefined.
+
+A quick memory rule is: **same signs → positive; different signs → negative**.
+
+**Worked example:** Find `80 ÷ (-10)`.
+
+The signs differ, so the quotient is negative. Since `80 ÷ 10 = 8`, `80 ÷ (-10) = -8`.
+
+**Worked example - average change:** A population falls from 1,000,000 to 100,000 over 10 years.
+
+`(100,000 - 1,000,000) ÷ 10 = -900,000 ÷ 10 = -90,000`
+
+The average change is **-90,000 animals per year**.
+
+**Common traps:**
+
+- Division is not commutative: `12 ÷ 3 = 4`, but `3 ÷ 12 = 1/4`.
+- Determine the sign before calculating the absolute-value quotient.
+- For a rate of change, calculate `(new value - original value) ÷ elapsed time` and interpret the sign.
+
+> **Challenge:** The temperature changes from `63°F` to `-21°F` in 12 hours. The average hourly change is `(-21 - 63) ÷ 12 = -84 ÷ 12 = -7°F` per hour.
+
+
 ---
 
 ### Topic 2: Add and Subtract Unlike Fractions
@@ -519,6 +552,146 @@ Example: `8 5/6 - 2 1/3` is approximately `9 - 2 = 7`. The exact answer `6 1/2` 
 - Treating the negative sign of a negative mixed number as if it applies only to the whole-number part.
 - Giving a number without units or context in a word problem.
 
+
+---
+
+### Topic 4: Multiply and Divide Fractions
+
+#### Multiply Fractions and Mixed Numbers
+
+1. Rewrite mixed numbers as improper fractions.
+2. Cancel common factors across numerators and denominators when possible.
+3. Multiply the numerators.
+4. Multiply the denominators.
+5. Simplify and convert to a mixed number when appropriate.
+
+**Worked example:** `2 1/4 × 1 2/3`
+
+`2 1/4 = 9/4` and `1 2/3 = 5/3`.
+
+`9/4 × 5/3 = 45/12 = 15/4 = 3 3/4`.
+
+Canceling before multiplying can make the arithmetic easier: the 9 and 3 share a factor of 3.
+
+**Applications:** Multiplication is useful for finding a fraction of a quantity, scaling a recipe, and finding area.
+
+Example: `3/5` of 180 minutes is `3/5 × 180 = 108` minutes.
+
+#### Divide Fractions and Mixed Numbers
+
+Use **Keep, Change, Flip**:
+
+1. Keep the first fraction.
+2. Change division to multiplication.
+3. Flip the second fraction to its reciprocal.
+4. Multiply and simplify.
+
+**Worked example:** `3 1/2 ÷ 7/8`
+
+`7/2 ÷ 7/8 = 7/2 × 8/7 = 4`.
+
+Division asks how many groups of the divisor fit into the dividend.
+
+**Common traps:**
+
+- Flip only the divisor, not the first fraction.
+- Convert mixed numbers before multiplying or dividing.
+- A quotient can be greater than the dividend when dividing by a positive fraction less than 1.
+- Zero has no reciprocal, so division by zero is undefined.
+
+> **Challenge:** A `8 1/4`-foot ladder has 6 equal spaces. Each space is `8 1/4 ÷ 6 = 33/4 × 1/6 = 11/8 = 1 3/8` feet.
+
+---
+
+### Topic 5: Terminating and Repeating Decimals
+
+#### Fractions as Decimals
+
+A fraction represents division: `a/b = a ÷ b`.
+
+- A **terminating decimal** ends, such as `4/5 = 0.8`.
+- A **repeating decimal** has a digit or block that repeats forever, such as `4/9 = 0.444... = 0.\overline{4}`.
+- Preserve the negative sign when converting negative fractions or mixed numbers.
+
+After a fraction is simplified, its decimal terminates exactly when the denominator has no prime factors other than 2 and 5.
+
+Examples:
+
+- `7/20 = 0.35` terminates because `20 = 2^2 × 5`.
+- `5/12 = 0.41666... = 0.41\overline{6}` repeats because the simplified denominator includes a factor of 3.
+
+#### Decimals as Fractions
+
+Use place value, then simplify.
+
+- `-0.9 = -9/10`
+- `0.34 = 34/100 = 17/50`
+- `2.66 = 266/100 = 133/50 = 2 33/50`
+
+A whole number can be written with denominator 1, and a negative decimal becomes a negative fraction.
+
+**Time warning:** Minutes are parts of 60, not parts of 100. Therefore, 2 hours 18 minutes is `2 + 18/60 = 2.3` hours, not `2.18` hours.
+
+> **Challenge:** Convert `0.\overline{27}` to a fraction. Let `x = 0.272727...`. Then `100x = 27.272727...`. Subtract: `99x = 27`, so `x = 27/99 = 3/11`.
+
+---
+
+### Topic 6: Square Roots and Irrational Numbers
+
+#### Square Roots and Perfect Squares
+
+The principal square root `√n` is the nonnegative number whose square is `n`.
+
+- `√49 = 7` because `7^2 = 49`.
+- If `n` is not a perfect square, `√n` is usually irrational: its decimal neither terminates nor repeats.
+- To bracket a square root, locate the neighboring perfect squares.
+
+Example: `49 < 63 < 64`, so `7 < √63 < 8`.
+
+#### Teacher Method: Estimate Between Perfect Squares
+
+The worksheets estimate a non-perfect square between consecutive perfect squares. If `a^2 < n < (a + 1)^2`, they use
+
+`√n ≈ a + (n - a^2)/((a + 1)^2 - a^2)`.
+
+For `√27`:
+
+- `25 < 27 < 36`, so `5 < √27 < 6`.
+- Fractional position: `(27 - 25)/(36 - 25) = 2/11`.
+- Estimate: `5 2/11 ≈ 5.2`.
+
+> **Accuracy Note:** This is a linear classroom estimate, not an exact square-root calculation. It is often useful to the nearest tenth, but it can differ from the correctly rounded value. For example, the worksheet method gives `√2 ≈ 1.3`, while `√2 = 1.414...` rounds to `1.4`; it gives `√20 ≈ 4.4`, while `√20 = 4.472...` rounds to `4.5`. Follow the method requested by the teacher, and use squaring or a calculator when exact rounding is required.
+
+#### Check an Approximation
+
+If `√n ≈ x`, square the estimate. A good estimate should make `x^2` close to `n`.
+
+Example: `√63 ≈ 7.9`; `7.9^2 = 62.41`, which is close to 63.
+
+#### Square-Root Applications
+
+For a square with area `A`:
+
+- side length: `s = √A`
+- perimeter: `P = 4√A`
+
+**Worked example:** A square garden has area 137 square feet.
+
+`s = √137 ≈ 11.7` feet.
+
+**Worked example:** A square frame has outer area `121 in^2` and is 2 inches thick on every side.
+
+- Outer side: `√121 = 11` inches.
+- Inner side: `11 - 2 - 2 = 7` inches.
+- Picture area: `7^2 = 49 in^2`.
+
+**Common traps:**
+
+- Area is in square units; side length and perimeter are in linear units.
+- For a border of thickness `t`, subtract `2t` from the outer side.
+- Do not confuse `√(a + b)` with `√a + √b`; they are generally not equal.
+
+
 ---
 
 ### Unit 1 Strategy Checklist
@@ -532,10 +705,21 @@ Before finalizing an answer, ask:
 5. Is the fraction simplified?
 6. Is an improper fraction acceptable, or should I write a mixed number?
 7. Does my answer agree with an estimate?
-8. In a real-world problem, did I include the unit and interpret the sign?
+8. For division, did I apply the sign rule and avoid dividing by zero?
+9. For fraction multiplication or division, did I convert mixed numbers and flip only the divisor?
+10. For decimal conversion, did I simplify and use bar notation for repeating digits?
+11. For a square root, did I bracket it between perfect squares and check whether the requested method is an estimate?
+12. In a real-world problem, did I include the unit and interpret the sign?
 
 **Source Material**
 
-- `Unit 1 What are Integers worksheets.pdf`
-- `Unit 1 Add and Subtract Unlike Fractions.pdf`
-- `Unit 1 Add and Subtract Mix Numbers.pdf`
+
+- `Unit 1 What are Integers worksheets (1).pdf`
+- `Unit 1 Divide Integers.pdf`
+- `Unit 1 Add and Subtract Unlike Fractions (1).pdf`
+- `Unit 1 Add and Subtract Mix Numbers (1).pdf`
+- `Unit 1 Multiply and Divide Fractions.pdf`
+- `Unit 1 Terminating and Repeating Decimals Extra Practice.pdf`
+- `Unit 1 Approximating Square Roots Worksheet.pdf`
+- `Unit 1 Approximating Square Roots Worksheet Key.pdf`
+- `Unit 1 Approximating Square Roots Practice Key.pdf`
