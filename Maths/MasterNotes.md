@@ -634,6 +634,78 @@ A whole number can be written with denominator 1, and a negative decimal becomes
 
 > **Challenge:** Convert `0.\overline{27}` to a fraction. Let `x = 0.272727...`. Then `100x = 27.272727...`. Subtract: `99x = 27`, so `x = 27/99 = 3/11`.
 
+
+#### Rational and Irrational Numbers
+
+A **rational number** is any number that can be written as a fraction `p/q`, where `p` and `q` are integers and `q ≠ 0`.
+
+Rational numbers include:
+
+- integers, because `7 = 7/1`;
+- fractions and mixed numbers;
+- terminating decimals, such as `0.35 = 7/20`;
+- repeating decimals, such as `0.\overline{4} = 4/9`.
+
+An **irrational number** cannot be written as a fraction of two integers. Its decimal representation:
+
+1. never terminates, **and**
+2. never settles into a repeating digit or repeating block.
+
+Examples include `π = 3.14159265...`, `√2 = 1.41421356...`, and `√3 = 1.73205080...`.
+
+| Number form | Rational or irrational? | How to identify it |
+|---|---|---|
+| Integer or fraction | Rational | It is already a ratio of integers or can be written over 1. |
+| Terminating decimal | Rational | Write it over a power of 10 and simplify. |
+| Repeating decimal | Rational | Algebra can convert its repeating pattern into a fraction. |
+| Nonterminating, nonrepeating decimal | Irrational | It continues forever without any repeating pattern. |
+| Square root of a perfect square | Rational | Example: `√49 = 7`. |
+| Square root of a non-perfect-square integer | Irrational | Example: `√5` is irrational. |
+
+**Important clarifications:**
+
+- A decimal is not irrational merely because it has many digits. It must continue forever **without repeating**.
+- Repeating decimals are always rational—even when some digits occur before the repeating part.
+- Not every square root is irrational. Always check whether the number inside the radical is a perfect square.
+- If only a shortened decimal is shown, you may need more information or a bar/pattern rule to determine whether it terminates or repeats.
+
+> **Special Concept — Converting a Repeating Decimal to a Fraction**
+>
+> The notation `5.8\overline{5}` means `5.85555...`; only the final digit `5` repeats. This number is rational because it can be converted exactly into a fraction.
+>
+> Let `x = 5.85555...`.
+>
+> First multiply by 10 to move past the one nonrepeating decimal digit:
+>
+> `10x = 58.55555...`
+>
+> Then multiply the original number by 100 to move one additional place—the length of the repeating block:
+>
+> `100x = 585.55555...`
+>
+> Subtract the equations:
+>
+> `100x - 10x = 585.55555... - 58.55555...`
+>
+> The identical repeating tails cancel:
+>
+> `90x = 527`
+>
+> Divide both sides by 90:
+>
+> `x = 527/90`
+>
+> Therefore, `5.8\overline{5} = 527/90`, proving that it is **rational**.
+>
+> **Why the trick works:** Multiplication shifts the decimal point until the repeating parts line up. Subtraction removes the infinite repeating tails and leaves an ordinary equation.
+
+**Bar-notation warning:** The bar belongs only above the digit or block that repeats.
+
+- `5.8\overline{5} = 5.85555...`
+- `5.\overline{85} = 5.858585...`
+
+These are different numbers, so bar placement matters.
+
 ---
 
 ### Topic 6: Square Roots and Irrational Numbers
