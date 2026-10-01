@@ -13,7 +13,9 @@ By the end of this unit, you should be able to:
 - interpret the direction of arrows in feeding diagrams;
 - identify trophic levels in an energy pyramid;
 - use the 10% rule to compare energy at neighboring trophic levels; and
-- explain how a change in one population can affect an entire ecosystem.
+- explain how a change in one population can affect an entire ecosystem;
+- identify major terrestrial and aquatic biomes from their climate and organisms; and
+- compare how organisms are adapted to different biome conditions.
 
 ## 1. Population Limits: A Bridge from Part 1
 
@@ -185,7 +187,66 @@ Energy availability helps determine carrying capacity.
 - Competition increases when many organisms need the same limited food source.
 - Changes in predators can alter prey populations and indirectly affect producers.
 
-## 9. Common Mistakes to Avoid
+## 9. Biomes
+
+A **biome** is a large region characterized by its climate and by certain plants and animals. Climate—especially long-term temperature and precipitation—helps determine which organisms can survive there.
+
+Important description words:
+
+- **Temperate:** having noticeable seasonal changes.
+- **Coniferous:** describing trees with cones and needle-shaped leaves, such as pine trees.
+- **Deciduous:** describing trees that shed their leaves seasonally. The word means “falling off.”
+- **Adaptation:** a trait or behavior that helps an organism survive and reproduce in its environment.
+
+### Major Terrestrial Biomes
+
+| Biome | Typical climate and features | Example organisms or adaptations |
+|---|---|---|
+| Desert | Very dry; usually less than 25 cm of rain each year; large day-to-night temperature changes | Cacti store water; many animals avoid daytime heat |
+| Tropical rainforest | Hot and wet near the equator; greatest biodiversity | Broad-leaved plants, vines, toucans, jaguars, and bonobos |
+| Tropical grassland (savanna) | Warm; seasonal rainfall; grasses with scattered trees | Acacia and baobab trees; zebras, elephants, and cheetahs |
+| Temperate grassland | Seasonal temperatures; moderate, often seasonal precipitation; grasses dominate | Bison, prairie dogs, coyotes, and grasses adapted to grazing and fire |
+| Taiga (boreal or coniferous forest) | Long, cold winters and short summers; largest land biome | Cone-bearing evergreens with needle-shaped leaves; moose and porcupines |
+| Temperate deciduous forest | Four seasons and enough precipitation for forests | Trees drop leaves before winter; black bears, chipmunks, and bobcats |
+| Tundra | Very cold, dry, and mostly treeless; short growing season | Low-growing mosses and shrubs; reindeer and Arctic hares |
+
+The biome project also lists **temperate rainforest** as its own biome. It is a cool-to-mild forest with abundant rainfall and is different from taiga.
+
+> **Source clarification:** One class slide labels a section “Temperate Rain Forest (Taiga),” while the project worksheet and comparison activity list temperate rainforest and taiga separately. These notes keep them separate because taiga is the cold boreal/coniferous forest described in that slide.
+
+### Aquatic Biomes
+
+**Salinity** means the amount of dissolved salt in water.
+
+| Biome | Salinity and key features | Examples |
+|---|---|---|
+| Freshwater | Low salinity; includes ponds, lakes, rivers, streams, and wetlands | Water lilies, duckweed, cattails, frogs, turtles, and alligators |
+| Estuary | River freshwater mixes with ocean saltwater, creating **brackish** water | Cordgrass, eelgrass, clams, herons, and catfish |
+| Marine | Saltwater; oceans cover about 70% of Earth's surface, making marine the largest biome overall | Algae, seaweed, sharks, sea stars, jellyfish, and sea anemones |
+
+> **Source clarification:** The class slideshow places sea anemones in a list of marine plants. A sea anemone is actually an animal.
+
+### How to Compare Biomes
+
+Use evidence in these categories:
+
+1. location;
+2. temperature and precipitation;
+3. common plants and their adaptations;
+4. common animals and their adaptations;
+5. human impacts or environmental threats; and
+6. important similarities and differences.
+
+Useful comparisons include:
+
+- **Desert and tundra:** both receive little precipitation, but their temperatures are very different.
+- **Tropical and temperate grassland:** both are dominated by grasses, but tropical grasslands stay warmer and have wet and dry seasons.
+- **Taiga and tundra:** taiga supports coniferous forests; tundra is mostly treeless.
+- **Freshwater, estuary, and marine:** their most useful distinguishing feature is salinity—low, mixed/brackish, and high.
+
+> **Source clarification:** The study-guide key says rainforest soil is nutrient-rich. In tropical rainforests, heavy rain often leaches nutrients from the soil, and many nutrients are stored in living organisms and surface litter instead.
+
+## 10. Common Mistakes to Avoid
 
 - **Reversing food-web arrows:** arrows point toward the organism receiving energy.
 - **Calling every heterotroph a consumer:** decomposers are heterotrophs, but their role is to break down or absorb remains and wastes.
@@ -193,8 +254,11 @@ Energy availability helps determine carrying capacity.
 - **Thinking energy cycles:** matter cycles, but energy flows through the ecosystem and is gradually released as heat.
 - **Using 90% instead of 10%:** about 10% transfers to the next trophic level; about 90% does not.
 - **Putting the most organisms at the top of an energy pyramid:** the greatest energy supply is at the producer base.
+- **Confusing climate and weather:** climate is the long-term pattern used to classify a biome; weather is a short-term condition.
+- **Calling taiga a temperate rainforest:** the project treats them as separate biomes.
+- **Calling an estuary freshwater or marine only:** an estuary contains brackish water where freshwater and saltwater mix.
 
-## 10. Quick Vocabulary Review
+## 11. Quick Vocabulary Review
 
 - **Autotroph:** organism that makes its own food.
 - **Heterotroph:** organism that obtains energy from other organisms or organic matter.
@@ -207,8 +271,16 @@ Energy availability helps determine carrying capacity.
 - **Energy pyramid:** model of available energy at each trophic level.
 - **Carrying capacity:** largest sustainable population in an ecosystem.
 - **Limiting factor:** condition that restricts population size or growth.
+- **Biome:** large region characterized by climate and its typical organisms.
+- **Temperate:** having seasonal changes.
+- **Coniferous:** having cones and usually needle-shaped leaves.
+- **Deciduous:** shedding leaves seasonally.
+- **Salinity:** amount of dissolved salt in water.
+- **Brackish:** a mixture of freshwater and saltwater.
+- **Adaptation:** trait or behavior that helps an organism survive and reproduce.
+- **Homeostasis:** maintenance of stable internal conditions despite outside changes.
 
-## 11. Self-Check
+## 12. Self-Check
 
 1. Why are producers placed at the base of an energy pyramid?
 2. In `algae → insect larva → fish → heron`, what is the role of the fish?
@@ -216,6 +288,9 @@ Energy availability helps determine carrying capacity.
 4. Why is a food web usually more realistic than a food chain?
 5. How could a drought affect producers, herbivores, and carnivores?
 6. What is the difference between a scavenger and a decomposer?
+7. Why can climate be used to identify a biome?
+8. How do freshwater, estuary, and marine ecosystems differ in salinity?
+9. Why are needle-shaped evergreen leaves useful in the taiga?
 
 ### Self-Check Answers
 
@@ -225,6 +300,9 @@ Energy availability helps determine carrying capacity.
 4. Most organisms have several food sources and predators, so many food chains overlap.
 5. A drought reduces water and may reduce producer growth. Less producer energy can support fewer herbivores, which may then support fewer carnivores.
 6. A scavenger eats dead animals; a decomposer chemically breaks down or absorbs remains and wastes.
+7. Long-term temperature and precipitation patterns determine which plants and animals can survive in a region.
+8. Freshwater has low salinity, an estuary has mixed or brackish water, and marine water has high salinity.
+9. Their small surface area and waxy coating help reduce water loss, and keeping leaves lets the tree photosynthesize when conditions allow.
 
 ## Source Material Processed
 
@@ -251,4 +329,32 @@ Energy availability helps determine carrying capacity.
 - `9-11.pptx`
 - `The Lion King Student Print Version.pdf`
 
-Last updated: 2026-09-10
+### Notebook — Week of 9/14 to 9/18
+
+- `Page 27 Biomes.pdf`
+
+### Unit 1 Ecology Part 2 — Week of 9/14 to 9/18
+
+- `The Lion King Activity KEY.pdf`
+- `9-15.pptx`
+- `Biomes.pptx`
+- `9-16.pptx`
+- `Biomes Worksheet.docx`
+- `Biomes Worksheet Rubric.docx`
+- `9-17.pptx`
+- `9-18.pptx`
+- `Biome Comparison _ Graphic Organizer Worksheet.docx`
+- `Biome Comparison _ Rubric.docx`
+
+### Unit 1 Ecology Part 2 — Week of 9/28 to 10/02
+
+- `9-28.pptx`
+- `9-29.pptx`
+- `Unit 1 Ecology Part 2 Energy Flow and Biomes Study Guide.docx`
+- `Unit 1 Ecology Part 2 Energy Flow and Biomes Study Guide KEY.docx`
+- `9-30.pptx`
+- `Unit1 Part 2 Review.pptx`
+- `10-1.pptx`
+- `10-2.pptx`
+
+Last updated: 2026-09-30
