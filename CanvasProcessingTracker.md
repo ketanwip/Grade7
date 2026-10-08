@@ -25,6 +25,24 @@ This file records the latest Canvas material incorporated into the subject notes
   - `Unit 2 Add Linear Expressions.pdf`
   - `Unit 2 Subtract Linear Expressions-1.pdf`
 
+### Maths Local Folder Convention
+
+- Store all Maths materials under \`/Users/ketansolanki/Desktop/Hridhaan-7-Grade/Math\`; do not use a separate \`Canvas-Downloads\` folder.
+- Store teacher material as \`Math/Unit-<number>/YYYY-MM-DD_to_MM-DD/\`.
+- If a Canvas week crosses a unit boundary, use the same dated folder under both affected unit folders and classify each file by unit.
+- Store generated or supplemental worksheets under the applicable \`Extra-Practice/\` folder.
+- Store durable historical manifests under \`Math/Import-History/\`.
+- Deduplicate recursively using Canvas file IDs and SHA-256 hashes before final placement. Keep one canonical copy of byte-identical content; preserve differing revisions with a dated revision suffix.
+
+### Organization Maintenance — 2026-10-08
+
+- Moved all Maths files from the former \`Canvas-Downloads/Maths\` tree into \`Math/Unit-1\` and \`Math/Unit-2\`.
+- Renamed the existing Unit 1 weekly folders to ISO ranges from \`2026-08-03_to_08-07\` through \`2026-08-24_to_08-28\`.
+- Split the existing Unit 2 files into \`2026-08-31_to_09-04\` and \`2026-09-07_to_09-11\` according to their Canvas sections.
+- Moved supplemental worksheets into the applicable unit's \`Extra-Practice\` folder and preserved the historical Unit 2 download manifest in \`Math/Import-History\`.
+- Removed one byte-identical duplicate of \`Unit 1 Terminating and Repeating Decimals.pdf\`; retained the earliest canonical copy under \`2026-08-03_to_08-07\`.
+- Verified all 40 remaining Maths files: zero byte-identical duplicate groups remain.
+
 ## Science Processing History
 
 ### Unit 1 Ecology Part 1
