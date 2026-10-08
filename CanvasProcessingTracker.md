@@ -6,7 +6,7 @@ This file records the latest Canvas material incorporated into the subject notes
 
 | Subject | Latest completed unit | Latest Canvas week processed | Notes destination | Status |
 |---|---|---|---|---|
-| Maths | Unit 2 | Week of 9/07 to 9/11 | `Maths/Unit2Notes.md` | Current through the listed week |
+| Maths | Unit 2 | Week of 10/05 to 10/09 | `Maths/Unit2Notes.md` | Current through the listed week |
 | Science | Unit 1 Ecology Part 2 | Week of 9/28 to 10/02 | `Science/Ecology-Part-2.md` | Current through Notebook Page 27 and dated material through 10/02 |
 | SocialStudy | Not recorded | Not recorded | `SocialStudy/MasterNotes.md` | Review later |
 
@@ -24,6 +24,29 @@ This file records the latest Canvas material incorporated into the subject notes
   - `Unit 2 Factor Linear Expressions.pdf`
   - `Unit 2 Add Linear Expressions.pdf`
   - `Unit 2 Subtract Linear Expressions-1.pdf`
+- **Week of 9/14 to 9/18:** Processed:
+  - `Unit 2 Algebraic Expressions.pdf`
+  - `Unit 2 Solve Two-step Equations.pdf`
+  - `Unit 2 More Two-step Equations.pdf`
+  - Canvas also repeated six earlier files and two same-week files; all eight byte-identical duplicates were skipped.
+- **Week of 9/28 to 10/02:** Processed:
+  - `Unit 2 Solve Equations with Variables on Each Side.pdf`
+  - `Unit 2 Solve Muti-step Equations.pdf`
+  - `Unit 2 Literal Equations WS-2.pdf`
+  - `Unit 2 One, None and Many Solutions.pdf`
+- **Week of 10/05 to 10/09:** Processed:
+  - `Unit 2 Literal Equations HW.pdf`
+  - `Unit 2 Multi-step Equations worksheet-2.pdf`
+  - `Unit 2 Multi-step Equations Variable Both Sides.pdf`
+  - `Unit 2 Review.pdf`
+  - The repeated `Unit 2 Literal Equations WS.pdf` was byte-identical to the 9/28 worksheet and was skipped.
+
+**Next Maths starting point:**
+
+- In Canvas **Unit 2**, begin with the first item after `Week of 10/05 to 10/09`.
+- Latest local source folder: `Math/Unit-2/2026-10-05_to_10-09`.
+- Notes destination: `Maths/Unit2Notes.md` on GitHub; local mirror: `Math/Unit-2/Unit2Notes.md`.
+- Durable import manifest: `Math/Import-History/2026-10-08-unit2-incremental-manifest.json`.
 
 ### Maths Local Folder Convention
 
