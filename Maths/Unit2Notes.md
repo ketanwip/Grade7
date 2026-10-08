@@ -330,6 +330,169 @@ Distribute the outside factor. A correct factorization must return the original 
 
 ---
 
+### Topic 6: Write and Evaluate Algebraic Expressions
+
+An **algebraic expression** contains numbers, variables, and operations but no equality sign. A **numerical expression** contains only numbers and operations.
+
+To evaluate an expression:
+
+1. Substitute the given value for every occurrence of the variable.
+2. Use parentheses around substituted negative numbers.
+3. Follow the order of operations.
+
+**Worked example:** Evaluate `3x - 2y + 5` when `x = -2` and `y = 4`.
+
+`3(-2) - 2(4) + 5 = -6 - 8 + 5 = -9`
+
+To translate words into algebra, first identify the changing quantity and assign a variable. Watch the order in subtraction and division:
+
+- “7 more than a number” → `n + 7`
+- “7 less than a number” → `n - 7`
+- “7 less than twice a number” → `2n - 7`
+- “the quotient of a number and 7” → `n/7`
+
+Formulas are algebraic expressions or equations that describe a relationship. Substitute carefully and include the correct units in the result.
+
+---
+
+### Topic 7: Solve Two-Step Equations
+
+An **equation** states that two expressions are equal. Solving means finding every value that makes the equation true. Keep the equation balanced by performing the same operation on both sides.
+
+For an equation in the form `ax + b = c`, undo operations in reverse order:
+
+1. Undo addition or subtraction.
+2. Undo multiplication or division.
+3. Check the solution in the original equation.
+
+**Worked example:** Solve `5x - 7 = 18`.
+
+`5x - 7 + 7 = 18 + 7`
+
+`5x = 25`
+
+`x = 5`
+
+Check: `5(5) - 7 = 25 - 7 = 18`.
+
+#### Parentheses, Fractions, and Decimals
+
+Some equations look different but still require two inverse operations.
+
+**Worked example:** Solve `3(x + 4) = 27`.
+
+Divide both sides by 3 first: `x + 4 = 9`, so `x = 5`.
+
+You could also distribute first: `3x + 12 = 27`, then solve. Choose the route that keeps the arithmetic simplest.
+
+For fractional coefficients, multiply by the reciprocal. For decimal coefficients, divide carefully or multiply every term by a power of 10 to clear the decimals.
+
+#### Model Real Situations
+
+1. Define the variable.
+2. Translate the situation into an equation.
+3. Solve.
+4. Check whether the answer makes sense in context and state the units.
+
+---
+
+### Topic 8: Variables on Both Sides and Multi-Step Equations
+
+Multi-step equations may require distribution, combining like terms, and moving variable terms before the variable can be isolated.
+
+Use this order:
+
+1. Simplify each side separately: distribute and combine like terms.
+2. Use addition or subtraction to place all variable terms on one side.
+3. Move constants to the other side.
+4. Divide or multiply to isolate the variable.
+5. Check in the original equation.
+
+**Worked example:** Solve `4(x - 2) + 3 = 2x + 9`.
+
+`4x - 8 + 3 = 2x + 9`
+
+`4x - 5 = 2x + 9`
+
+`2x - 5 = 9`
+
+`2x = 14`
+
+`x = 7`
+
+When choosing which variable term to move, subtracting the smaller coefficient often avoids a negative coefficient, but either direction is valid if the balance is preserved.
+
+**Common errors:**
+
+- Moving a term by changing its sign without showing the same operation on both sides.
+- Combining unlike terms.
+- Distributing to only the first term inside parentheses.
+- Checking in a simplified equation instead of the original one.
+
+---
+
+### Topic 9: One Solution, No Solution, or Infinitely Many Solutions
+
+After simplifying an equation, the result reveals how many solutions it has.
+
+| Final result | Meaning | Solution set |
+|---|---|---|
+| `x = a number` | One value makes the equation true | One solution |
+| A false statement, such as `4 = 9` | No value can make it true | No solution, `∅` |
+| A true statement, such as `6 = 6` | Every value makes it true | Infinitely many solutions; all real numbers |
+
+**No-solution example:**
+
+`3(x + 2) = 3x + 10`
+
+`3x + 6 = 3x + 10`
+
+Subtracting `3x` gives `6 = 10`, which is false. Therefore, there is no solution.
+
+**Identity example:**
+
+`2(x + 5) = 2x + 10`
+
+Both sides simplify to the same expression, leaving `10 = 10`. Therefore, every real number is a solution.
+
+Do not stop just because the variable disappears. Decide whether the remaining statement is true or false.
+
+---
+
+### Topic 10: Solve Literal Equations
+
+A **literal equation** contains two or more variables and often represents a formula. Solving for a specified variable means rewriting the equation so that the target variable is alone.
+
+The process is the same as solving a numerical equation:
+
+1. Identify the target variable.
+2. Treat all other variables as known quantities.
+3. Undo operations in reverse order.
+4. If useful, clear fractions or distribute first.
+5. Check by substituting the rearranged form back into the original relationship.
+
+**Worked example:** Solve `C = 2πr` for `r`.
+
+Divide both sides by `2π`:
+
+`r = C/(2π)`
+
+**Worked example:** Solve `y = mx + b` for `x`.
+
+`y - b = mx`
+
+`x = (y - b)/m`, where `m ≠ 0`.
+
+**Worked example:** Solve `A = (1/2)bh` for `h`.
+
+Multiply both sides by 2: `2A = bh`.
+
+Divide by `b`: `h = 2A/b`, where `b ≠ 0`.
+
+Parentheses matter in the final answer. For example, `(y - b)/m` means the entire difference is divided by `m`.
+
+---
+
 ### Unit 2 Strategy Checklist
 
 Before finalizing an answer, ask:
@@ -341,8 +504,14 @@ Before finalizing an answer, ask:
 5. When adding expressions, did I combine only like terms?
 6. When subtracting expressions, did I add the opposite of the entire second expression?
 7. When factoring, did I use the GCF of every term?
-8. Can I verify a simplified or factored form by substitution or distribution?
-9. In a word problem, did I define the variable and include the correct units?
+8. When evaluating, did I substitute every variable and follow the order of operations?
+9. When solving, did I perform the same operation on both sides?
+10. Did I simplify each side before moving variable terms?
+11. If the variable disappeared, is the remaining statement true or false?
+12. For a literal equation, is the requested variable completely isolated?
+13. Can I verify a simplified or factored form by substitution or distribution?
+14. Did I check an equation solution in the original equation?
+15. In a word problem, did I define the variable, interpret the answer, and include units?
 
 **Source Material**
 
@@ -353,3 +522,17 @@ Before finalizing an answer, ask:
   - `Unit 2 Factor Linear Expressions.pdf`
   - `Unit 2 Add Linear Expressions.pdf`
   - `Unit 2 Subtract Linear Expressions-1.pdf`
+- Week of 9/14 to 9/18
+  - `Unit 2 Algebraic Expressions.pdf`
+  - `Unit 2 Solve Two-step Equations.pdf`
+  - `Unit 2 More Two-step Equations.pdf`
+- Week of 9/28 to 10/02
+  - `Unit 2 Solve Equations with Variables on Each Side.pdf`
+  - `Unit 2 Solve Muti-step Equations.pdf`
+  - `Unit 2 Literal Equations WS-2.pdf`
+  - `Unit 2 One, None and Many Solutions.pdf`
+- Week of 10/05 to 10/09
+  - `Unit 2 Literal Equations HW.pdf`
+  - `Unit 2 Multi-step Equations worksheet-2.pdf`
+  - `Unit 2 Multi-step Equations Variable Both Sides.pdf`
+  - `Unit 2 Review.pdf`
