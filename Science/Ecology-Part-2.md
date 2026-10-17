@@ -357,4 +357,8 @@ Useful comparisons include:
 - `10-1.pptx`
 - `10-2.pptx`
 
-Last updated: 2026-09-30
+### Notebook — final Unit 1 recap
+
+- `Page 28 Unit 1 Ecology Part 2 Study Guide.pdf` — reviewed; no new instructional content beyond the completed cumulative notes
+
+Last updated: 2026-10-17
