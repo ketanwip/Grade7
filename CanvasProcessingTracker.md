@@ -7,7 +7,7 @@ This file records the latest Canvas material incorporated into the subject notes
 | Subject | Latest completed unit | Latest Canvas week processed | Notes destination | Status |
 |---|---|---|---|---|
 | Maths | Unit 2 | Week of 10/05 to 10/09 | `Maths/Unit2Notes.md` | Current through the listed week |
-| Science | Unit 1 Ecology Part 2 | Week of 9/28 to 10/02 | `Science/Ecology-Part-2.md` | Current through Notebook Page 27 and dated material through 10/02 |
+| Science | Unit 2 Cell and Human Body Systems Part 1 | Week of 10/12 to 10/16 | `Science/Cell-and-Human-Body-Systems-Part-1.md` | Current through Notebook Page 36 and dated material through 10/16 |
 | SocialStudy | Not recorded | Not recorded | `SocialStudy/MasterNotes.md` | Review later |
 
 ## Maths Processing History
@@ -115,17 +115,50 @@ This file records the latest Canvas material incorporated into the subject notes
   - `Unit1 Part 2 Review.pptx`
   - `10-1.pptx`
   - `10-2.pptx`
+- **Notebook — final Unit 1 recap:** Processed `Page 28 Unit 1 Ecology Part 2 Study Guide.pdf`; it repeated material already consolidated in `Science/Ecology-Part-2.md`.
+
+### Unit 2 Cell and Human Body Systems Part 1
+
+- **Notebook — Week of 10/05 to 10/09:** Processed:
+  - `Page 29 Unit 2 Cell and Human Body Systems Part 1 Cell Structure Cover Page.pdf`
+  - `Page 30 Introduction to Cells.pdf`
+  - `Page 31 Cell Theory.pdf`
+  - `Page 32 Prokaryotic Cell vs Eukaryotic Cell.pdf`
+  - `Page 33 Cell Organelles.pdf`
+- **Week of 10/05 to 10/09:** Processed:
+  - `The Characteristics of Cells.pdf`
+  - `HMHed Unit 2 Lesson 1 The Characteristicss of Cells.docx`
+  - `10-6.pptx`
+  - `Cell Introduction.pptx`
+  - `Cell Theory Doodle Note.pdf`
+  - `Cell Theory Doodle Notes Presentation.pptx`
+  - `Prokaryotic vs. Eukaryotic Cells Amoeba Sisters Worksheet.pdf`
+  - `Prokaryotic and Eukaryotic Cells Practice.pdf`
+  - `10-8.pptx`
+  - `10-9.pptx`
+- **Notebook — Week of 10/12 to 10/16:** Processed:
+  - `Page 34 Cell Organelles Practice.pdf`
+  - `Page 35 Cell Pictures.pdf`
+  - `Page 36 Unit 2 Part 1 Quiz Review.pdf`
+- **Week of 10/12 to 10/16:** Processed:
+  - `Textbook Cell Structure and Function.pdf`
+  - `HMHed Unit 2 Lesson 3 Cell Structure and Function.docx`
+  - `10-14.pptx`
+  - `Cell Organelles (on level).pptx`
+  - `10-15.pptx`
+  - `Cell Organelle Vocabulary Practice.docx`
+  - `10-16.pptx`
 
 **Next Science starting points:**
 
-- In the Canvas **Notebook** section, begin with the first item after `Page 27 Biomes.pdf`.
-- In **Unit 1 Ecology Part 2**, begin with the first dated section after `10/02`.
-- Latest local source folders: `Science/Ecology/2026-09-14_to_09-18` and `Science/Ecology/2026-09-28_to_10-02`, with Canvas streams kept in separate subfolders.
-- Notes destination: `Science/Ecology-Part-2.md` on GitHub; local mirror: `Science/Ecology/Ecology-Part-2.md`.
+- In the Canvas **Notebook** section, begin with the first item after `Page 36 Unit 2 Part 1 Quiz Review.pdf`.
+- In **Unit 2 Cell and Human Body Systems Part 1**, begin with the first dated section after `10/16`.
+- Latest local source folders: `Science/Cell-and-Human-Body-Systems-Part-1/2026-10-05_to_10-09` and `Science/Cell-and-Human-Body-Systems-Part-1/2026-10-12_to_10-16`.
+- Notes destination: `Science/Cell-and-Human-Body-Systems-Part-1.md` on GitHub; local mirror: `Science/Cell-and-Human-Body-Systems-Part-1/Cell-and-Human-Body-Systems-Part-1.md`.
 
 ### Science Local Folder Convention
 
-- Store each import under `Science/Ecology/YYYY-MM-DD_to_MM-DD/`.
+- Store each import under `Science/<unit-folder>/YYYY-MM-DD_to_MM-DD/`; keep historical Ecology material under `Science/Ecology/` and Unit 2 Part 1 material under `Science/Cell-and-Human-Body-Systems-Part-1/`.
 - Within each dated week, keep Canvas streams separate as `Notebook/` and `Unit-<name>/`.
 - Keep that week's `canvas-download-manifest.json` at the dated-week root.
 - Use `Science/_Incoming/<stream>/` only as temporary staging; compare file IDs and SHA-256 hashes recursively before moving sources into a dated week.
@@ -148,4 +181,4 @@ This file records the latest Canvas material incorporated into the subject notes
 4. After notes are updated and verified on GitHub, update the subject row and append the processed week and filenames here.
 5. Do not mark a week complete if any potentially important source could not be downloaded or read.
 
-Last updated: 2026-10-08
+Last updated: 2026-10-17
